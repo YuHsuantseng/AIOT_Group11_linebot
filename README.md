@@ -35,7 +35,7 @@
 
 <img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/webhook.jpg" width="350" height="700" />
 
-### chatterbot 功能 ###
+### Chatterbot 功能 ###
 
 利用chatterbot訓練中、英文資料集，讓機器人具備基本聊天功能
 
