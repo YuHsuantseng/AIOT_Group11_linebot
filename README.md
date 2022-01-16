@@ -19,13 +19,11 @@
 
 ### 環境要求 ###
 
-`Python 3.8`
+`Python 3.8` 、 `Window10`
 
 需先安裝chatterbot API
 
-`$ pip install chatterbot==1.0.4`
-
-`$ pip install chatterbot_corpus`
+`$ pip install chatterbot==1.0.4` 、 `$ pip install chatterbot_corpus`
 
 由於chatterbot API內部的資料集並未有中文繁體資料，因此需安裝opencc API來進行繁<->簡翻譯
 
