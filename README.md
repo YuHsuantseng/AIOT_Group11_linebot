@@ -11,7 +11,6 @@
 其中， Messaging API 為LINE官方定義的回應訊息標準介面，包含Text（文字）、Sticker（貼圖）、Video（影片）、Audio（聲音）及Template（樣板）訊息等，可使 data 於 LINE Bot Server 及 LINE Platform 之間傳遞（HTTPS上傳送的Request為JSON 格式）。
 
 <img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/Message%20API%E6%B5%81%E7%A8%8B.jpg" width="700" height="350" />
-<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/%E7%B3%BB%E7%B5%B1%E6%B5%81%E7%A8%8B%E5%9C%96.jpg" width="200" height="350" />
 
 ## 系統架構 ##
 
