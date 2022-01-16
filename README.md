@@ -12,6 +12,12 @@
 
 <img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/Message%20API%E6%B5%81%E7%A8%8B.jpg" width="700" height="350" />
 
+## 系統架構 ##
+
+<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B.JPG" width="700" height="350" />
+<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/%E7%B3%BB%E7%B5%B1%E6%B5%81%E7%A8%8B%E5%9C%96.jpg" width="350" height="700" />
+
+
 ## 使用情境 ##
 
 假設小熊-小白，他剛好沒有人可以聊天，覺得很無聊想去找聊天機器人說說話，小白如果想買iphone，聊天機器人就會回傳iphone購物連結；小白想聽歌，輸入我要聽梁靜茹的勇氣，聊天機器人就回傳歌曲URL；小白想知道天氣狀態，聊天機器人會回傳天氣相關資訊；小白無聊想聽笑話時，聊天機器人就回傳一個笑話；小白想查哪個縣市推薦的美食時，聊天機器人就會用問答的方式，詢問小熊喜歡的美食類型、地區，最後回傳推薦他喜歡的餐廳給他；同時，小白也透過聊天機器人，來排除內心的寂寞感，甚至是得到歸屬感
@@ -20,6 +26,7 @@
 ## DEMO ##
 
 <img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/demo.gif" width="350" height="700" />
+
 
 ## 前置作業 ##
 
@@ -59,6 +66,9 @@ pipenv套件管理工具安裝：
 
 `$ python manage.py migrate`
 
-## 參考資料 ##
 
+
+
+
+## 參考資料 ##
 
