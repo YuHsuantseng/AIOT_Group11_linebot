@@ -49,7 +49,7 @@
 `Python 3.8` 、 `Window10`
 
 ### 安裝git ###
-到git官網(https://git-scm.com/downloads)下載git，並進行安裝，全部點選預設即可。
+到[git官網](https://git-scm.com/downloads) 下載git，並進行安裝，全部點選預設即可。
 
 ### 將專案複製(Clone)下來後，假設沒有以下套件，可以透過以下指令各別安裝： ###
 
