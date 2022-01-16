@@ -10,7 +10,11 @@
 
 其中， Messaging API 為LINE官方定義的回應訊息標準介面，包含Text（文字）、Sticker（貼圖）、Video（影片）、Audio（聲音）及Template（樣板）訊息等，可使 data 於 LINE Bot Server 及 LINE Platform 之間傳遞（HTTPS上傳送的Request為JSON 格式）。
 
+## 執行畫面 ##
 
+<img src="https://1.bp.blogspot.com/-xtdV8qWOQgI/XwsK2R_FLRI/AAAAAAAADho/mwYWqibN1wIv1Xy-RZF9LBN2rPwmMsbNQCPcBGAsYHg/s2048/line_bot_buttons_template_message_1.jpg" width="350" height="700" />
+
+<img src="https://1.bp.blogspot.com/-WRi2qROqKis/XwsK2fDaTZI/AAAAAAAADho/VZ-Ac8ewhjccJwDMtyQAsJftU2t78OH3gCPcBGAsYHg/s2048/line_bot_buttons_template_message_2.jpg" width="350" height="700" />
 
 
 
@@ -21,7 +25,9 @@
 
 `Python 3.8` 、 `Window10`
 
-需先安裝chatterbot API
+### 將專案複製(Clone)下來後，假設沒有以下套件，可以透過以下指令各別安裝： ###
+
+chatterbot API 安裝
 
 `$ pip install chatterbot==1.0.4` 、 `$ pip install chatterbot_corpus`
 
@@ -29,8 +35,15 @@
 
 `$ pip install opencc`
 
+在Python網頁爬蟲應用上，BeautifulSoup是一個用來解析HTML結構的Python Package，將取回的網頁HTML結構，透過其提供的方法，能夠輕鬆的搜尋及擷取網頁上所需的資料：
 
-將專案複製(Clone)下來後，假設沒有pipenv套件管理工具，可以透過以下指令來進行安裝：
+`$ pip install beautifulsoup4`
+
+而解析網頁的HTML程式碼前，還需安裝Python的requests Package，將要爬取的網頁HTML程式碼取回來：
+
+`$ pip install requests`
+
+pipenv套件管理工具安裝：
 
 `$ pip install pipenv`
 
@@ -44,8 +57,3 @@
 
 `$ python manage.py migrate`
 
-## 執行畫面 ##
-
-<img src="https://1.bp.blogspot.com/-xtdV8qWOQgI/XwsK2R_FLRI/AAAAAAAADho/mwYWqibN1wIv1Xy-RZF9LBN2rPwmMsbNQCPcBGAsYHg/s2048/line_bot_buttons_template_message_1.jpg" width="350" height="700" />
-
-<img src="https://1.bp.blogspot.com/-WRi2qROqKis/XwsK2fDaTZI/AAAAAAAADho/VZ-Ac8ewhjccJwDMtyQAsJftU2t78OH3gCPcBGAsYHg/s2048/line_bot_buttons_template_message_2.jpg" width="350" height="700" />
