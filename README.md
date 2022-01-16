@@ -17,16 +17,19 @@
 
 ## 前置作業 ##
 
-# 環境要求 #
+### 環境要求 ###
 
-Python 3.8
+`Python 3.8`
 
 需先安裝chatterbot API
-`$ pip install chatterbot==1.0.4
-`$ pip install chatterbot_corpus
+
+`$ pip install chatterbot==1.0.4`
+
+`$ pip install chatterbot_corpus`
 
 由於chatterbot API內部的資料集並未有中文繁體資料，因此需安裝opencc API來進行繁<->簡翻譯
-`$ pip install opencc
+
+`$ pip install opencc`
 
 
 將專案複製(Clone)下來後，假設沒有pipenv套件管理工具，可以透過以下指令來進行安裝：
