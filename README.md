@@ -15,7 +15,7 @@
 ## 系統架構 ##
 
 <img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B.JPG" width="700" height="350" />
-<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/%E7%B3%BB%E7%B5%B1%E6%B5%81%E7%A8%8B%E5%9C%96.jpg" width="300" height="500" />
+<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/%E7%B3%BB%E7%B5%B1%E6%B5%81%E7%A8%8B%E5%9C%96.jpg" width="200" height="350" />
 
 
 ## 使用情境 ##
