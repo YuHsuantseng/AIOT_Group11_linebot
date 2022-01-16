@@ -1,4 +1,4 @@
-# hatterbot-linebot #
+# Chatterbot-linebot #
 
 ## 專案介紹 ##
 
