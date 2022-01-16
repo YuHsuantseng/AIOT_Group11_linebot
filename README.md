@@ -41,6 +41,9 @@
 
 <img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/chatterbot.jpg" width="350" height="700" />
 
+### 完整功能DEMO ###
+
+<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/demo.gif" width="350" height="700" />
 
 ## 前置作業 ##
 
@@ -49,7 +52,11 @@
 `Python 3.8` 、 `Window10`
 
 ### 安裝git ###
-到[git官網](https://git-scm.com/downloads) 下載git，並進行安裝，全部點選預設即可。
+到[git官網](https://git-scm.com/downloads)下載git，並進行安裝，全部點選預設即可。
+
+### 註冊Line Developers、安裝ngork ###
+
+[教程](https://www.learncodewithmike.com/2020/06/python-line-bot.html)
 
 ### 將專案複製(Clone)下來後，假設沒有以下套件，可以透過以下指令各別安裝： ###
 
@@ -89,3 +96,10 @@ pipenv套件管理工具安裝：
 
 ## 參考資料 ##
 
+[如何快速上手LINE BOT](https://www.learncodewithmike.com/2020/06/python-line-bot.html)
+
+[如何建立物件導向的網頁爬蟲LINE BOT](https://www.learncodewithmike.com/2020/07/python-web-scraping-line-bot.html)
+
+[如何完成google搜尋引擎網頁爬蟲](https://www.learncodewithmike.com/2020/02/python-beautifulsoup-web-scraper.html)
+
+[如何使用chatterbot API](https://github.com/gunthercox/ChatterBot)
