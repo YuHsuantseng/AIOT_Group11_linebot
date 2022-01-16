@@ -23,7 +23,23 @@
 
 ## DEMO ##
 
-<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/demo.gif" width="350" height="700" />
+### Python物件導向 + Webhook 功能 ###
+
+爬取某地區前五名最高人氣且營業中的指定類型餐廳資訊，將符合的餐廳資訊回覆給使用者。
+
+<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/webhook%2Bbutton.jpg" width="350" height="700" />
+
+### Webhook 功能 ###
+
+設計了購物、笑話、聽音樂、詢問天氣等功能，使用爬蟲到網路上爬取google搜尋出來的URL後回傳給用戶
+
+<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/webhook.jpg" width="350" height="700" />
+
+### chatterbot 功能 ###
+
+利用chatterbot訓練中、英文資料集，讓機器人具備基本聊天功能
+
+<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/chatterbot.jpg" width="350" height="700" />
 
 
 ## 前置作業 ##
@@ -31,6 +47,9 @@
 ### 環境要求 ###
 
 `Python 3.8` 、 `Window10`
+
+### 安裝git ###
+到git官網(https://git-scm.com/downloads)下載git，並進行安裝，全部點選預設即可。
 
 ### 將專案複製(Clone)下來後，假設沒有以下套件，可以透過以下指令各別安裝： ###
 
