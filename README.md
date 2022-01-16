@@ -8,8 +8,6 @@
 
 同時，我們使用Python物件導向的多型(Polymorphism)概念，來開發美食餐廳的LINE Bot，透過按鈕樣板訊息(Buttons template message)對談的方式瞭解使用者所要尋找的餐廳條件(地區、美食分類、平均消費價格)後，利用Python網頁爬蟲取得目前正在營業的五間最高人氣餐廳資料，回覆給使用者作為參考。
 
-<img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/Line%20Bot%20Server%E4%B8%BB%E8%A6%81%E5%9F%B7%E8%A1%8C%E6%9E%B6%E6%A7%8B.jpg" width="700" height="350" />
-
 其中， Messaging API 為LINE官方定義的回應訊息標準介面，包含Text（文字）、Sticker（貼圖）、Video（影片）、Audio（聲音）及Template（樣板）訊息等，可使 data 於 LINE Bot Server 及 LINE Platform 之間傳遞（HTTPS上傳送的Request為JSON 格式）。
 
 <img src="https://github.com/YuHsuantseng/AIOT_Group11_linebot/blob/main/images/Message%20API%E6%B5%81%E7%A8%8B.jpg" width="700" height="350" />
